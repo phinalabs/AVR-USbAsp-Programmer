@@ -1,0 +1,16 @@
+F:\Visual Studio 2010\Projects\XSoft\LibMsg\bin\Debug\LibMsg.dll
+F:\Visual Studio 2010\Projects\XSoft\LibMsg\bin\Debug\LibMsg.pdb
+F:\Visual Studio 2010\Projects\XSoft\LibMsg\obj\x86\Debug\LibMsg.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2010\Projects\XSoft\LibMsg\obj\x86\Debug\LibMsg.MsgBox.resources
+F:\Visual Studio 2010\Projects\XSoft\LibMsg\obj\x86\Debug\LibMsg.Properties.Resources.resources
+F:\Visual Studio 2010\Projects\XSoft\LibMsg\obj\x86\Debug\LibMsg.csproj.GenerateResource.Cache
+F:\Visual Studio 2010\Projects\XSoft\LibMsg\obj\x86\Debug\LibMsg.dll
+F:\Visual Studio 2010\Projects\XSoft\LibMsg\obj\x86\Debug\LibMsg.pdb
+D:\Files\Visual Studio 2010\Projects\XSoft\LibMsg\bin\Debug\LibMsg.dll
+D:\Files\Visual Studio 2010\Projects\XSoft\LibMsg\bin\Debug\LibMsg.pdb
+D:\Files\Visual Studio 2010\Projects\XSoft\LibMsg\obj\x86\Debug\LibMsg.MsgBox.resources
+D:\Files\Visual Studio 2010\Projects\XSoft\LibMsg\obj\x86\Debug\LibMsg.Properties.Resources.resources
+D:\Files\Visual Studio 2010\Projects\XSoft\LibMsg\obj\x86\Debug\LibMsg.csproj.GenerateResource.Cache
+D:\Files\Visual Studio 2010\Projects\XSoft\LibMsg\obj\x86\Debug\LibMsg.dll
+D:\Files\Visual Studio 2010\Projects\XSoft\LibMsg\obj\x86\Debug\LibMsg.pdb
+D:\Files\Visual Studio 2010\Projects\XSoft\LibMsg\obj\x86\Debug\LibMsg.csprojResolveAssemblyReference.cache

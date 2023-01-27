@@ -1,0 +1,15 @@
+C:\Users\mercy\documents\visual studio 2010\Projects\XSoft\Cmdp\bin\Debug\Cmdp.dll
+C:\Users\mercy\documents\visual studio 2010\Projects\XSoft\Cmdp\bin\Debug\Cmdp.pdb
+C:\Users\mercy\documents\visual studio 2010\Projects\XSoft\Cmdp\obj\Debug\Cmdp.dll
+C:\Users\mercy\documents\visual studio 2010\Projects\XSoft\Cmdp\obj\Debug\Cmdp.pdb
+C:\Users\mercy\documents\visual studio 2010\Projects\XSoft\Cmdp\obj\Debug\Cmdp.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2010\Projects\XSoft\Cmdp\bin\Debug\Cmdp.dll
+F:\Visual Studio 2010\Projects\XSoft\Cmdp\bin\Debug\Cmdp.pdb
+F:\Visual Studio 2010\Projects\XSoft\Cmdp\obj\Debug\Cmdp.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2010\Projects\XSoft\Cmdp\obj\Debug\Cmdp.dll
+F:\Visual Studio 2010\Projects\XSoft\Cmdp\obj\Debug\Cmdp.pdb
+D:\Files\Visual Studio 2010\Projects\XSoft\Cmdp\bin\Debug\Cmdp.dll
+D:\Files\Visual Studio 2010\Projects\XSoft\Cmdp\bin\Debug\Cmdp.pdb
+D:\Files\Visual Studio 2010\Projects\XSoft\Cmdp\obj\Debug\Cmdp.dll
+D:\Files\Visual Studio 2010\Projects\XSoft\Cmdp\obj\Debug\Cmdp.pdb
+D:\Files\Visual Studio 2010\Projects\XSoft\Cmdp\obj\Debug\Cmdp.csprojResolveAssemblyReference.cache
